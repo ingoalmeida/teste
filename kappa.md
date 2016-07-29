@@ -10,4 +10,6 @@ Agente kappa
 	- Armadura de coco;
 	- Espada a laser;
 	- Frase: "Estou muito tempo sem jogar"
+	- aushdahusdhasd
+	
 	
