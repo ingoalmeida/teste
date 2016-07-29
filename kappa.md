@@ -5,6 +5,7 @@ Agente kappa
 - **Bag**:
 	- 50G;
 	- Potion x3;
+	- aki é *nozesssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss*;
 	- Armadura de coco;
 	- Espada a laser;
 	
