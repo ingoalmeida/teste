@@ -6,6 +6,7 @@ Agente kappa
 	- 50G;
 	- Potion x3;
 	- aki é *nozesssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss*;
+	- alaolaoalaoo; 
 	- Armadura de coco;
 	- Espada a laser;
 	
